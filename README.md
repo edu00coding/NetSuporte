@@ -1,4 +1,4 @@
-# Project Mandrake
+# Project Mandrake (NetSuporte)
 
 Bem-vindo ao **Project Mandrake**! 🌿  
 Este é um projeto foi desenvolvido com o objetivo de ser um sistema de abertura de chamados de Service Desk T.I ;
