@@ -1,32 +1,31 @@
-# Project Mandrake (NetSuporte)
+# Project Mandrake (NetSuporte) 🌿
 
-Bem-vindo ao **Project Mandrake**! 🌿  
-Este é um projeto foi desenvolvido com o objetivo de ser um sistema de abertura de chamados de Service Desk T.I ;
+Bem-vindo ao **Project Mandrake**!  
+Este sistema foi desenvolvido com o objetivo de facilitar a abertura e gestão de chamados de Service Desk de T.I.
 
 ## 🚀 Funcionalidades
 
-- [ ] Abertura de Chamados com Técnicos Responsaveis por cada área de uma empresa de T.I
-- [ ] Chamados Abertos Automaticamente
-- [ ] Possibilidade de escalar assuntos com o Financeiro e Comercial da empresa
+- [x] Abertura de chamados com atribuição automática a técnicos responsáveis por cada área
+- [x] Geração automática de chamados com base em eventos ou rotinas
+- [x] Escalonamento de solicitações envolvendo os setores Financeiro e Comercial
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias Utilizadas
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+- Linguagem: C#
+- Plataforma: .NET Framework / Windows Forms (ou WPF, caso aplicável)
+- IDE: Visual Studio
 
-- Projeto Desenvolvido em C# 
+## 📦 Status do Projeto
 
+🧪 **Em fase de testes**
 
-## 📦 Como rodar o projeto
+---
 
-```bash
-# Clone este repositório
-git clone https://github.com/seuusuario/ProjectMandrake
+## 📷 Redes Sociais
 
-# Acesse a pasta do projeto no terminal/cmd
-cd ProjectMandrake
+Me acompanhe no Instagram: [@edu.sec.e]
 
-# Instale as dependências
-[ex: npm install ou pip install -r requirements.txt]
+---
 
-# Execute a aplicação
-[ex: npm start ou python app.py]
+Desenvolvido por **Antonio Eduardo**
+
