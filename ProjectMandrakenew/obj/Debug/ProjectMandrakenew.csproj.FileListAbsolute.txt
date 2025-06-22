@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\ProjectMandrakenew\ProjectMandrakenew\bin\Debug\ProjectMandrakenew.exe.config
+C:\Users\Eduardo\source\repos\ProjectMandrakenew\ProjectMandrakenew\bin\Debug\ProjectMandrakenew.exe
+C:\Users\Eduardo\source\repos\ProjectMandrakenew\ProjectMandrakenew\bin\Debug\ProjectMandrakenew.pdb
+C:\Users\Eduardo\source\repos\ProjectMandrakenew\ProjectMandrakenew\obj\Debug\ProjectMandrakenew.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\ProjectMandrakenew\ProjectMandrakenew\obj\Debug\ProjectMandrakenew.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\ProjectMandrakenew\ProjectMandrakenew\obj\Debug\ProjectMandrakenew.exe
+C:\Users\Eduardo\source\repos\ProjectMandrakenew\ProjectMandrakenew\obj\Debug\ProjectMandrakenew.pdb
+C:\Users\Eduardo\source\repos\ProjectMandrakenew\ProjectMandrakenew\obj\Debug\ProjectMandrakenew.exe.config
